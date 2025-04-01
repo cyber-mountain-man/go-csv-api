@@ -1,0 +1,11 @@
+# Go build files
+*.exe
+*.out
+*.test
+
+# Local data
+data/Warehouse_and_Retail_Sales.csv
+
+# IDE/editor files
+.vscode/
+.idea/
