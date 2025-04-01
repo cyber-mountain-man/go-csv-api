@@ -1,4 +1,4 @@
-```markdown
+
 # go-csv-api
 
 A lightweight REST API built with **Go** and **Gin** that loads warehouse and retail sales data from a CSV file and serves it through paginated, filterable endpoints.
@@ -72,6 +72,21 @@ go run main.go
 ```
 
 > The server will start at `http://localhost:8080`
+
+---
+
+## 📥 Sample Data
+
+This API uses open-source warehouse and retail sales data provided by Montgomery County, Maryland.
+
+- 🔗 **Source:** [Montgomery County Open Data Portal](https://data.montgomerycountymd.gov/Finance-Tax-Property/Warehouse-and-Retail-Sales/v76h-r7br)
+- 📄 **Direct CSV Download:** [Click here to download the data](https://data.montgomerycountymd.gov/api/views/v76h-r7br/rows.csv?accessType=DOWNLOAD)
+
+To test this API with real data:
+
+1. Download the CSV using the link above.
+2. Rename the file to `Warehouse_and_Retail_Sales.csv`.
+3. Place it inside the `data/` folder at the root of the project.
 
 ---
 
