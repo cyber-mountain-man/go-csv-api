@@ -1,4 +1,4 @@
-```markdown
+
 # go-csv-api
 
 A lightweight REST API built with **Go** and **Gin** that loads warehouse and retail sales data from a CSV file and serves it through paginated, filterable endpoints.
