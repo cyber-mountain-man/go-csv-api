@@ -55,7 +55,7 @@ go-csv-api/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/go-csv-api.git
+git clone https://github.com/cyber-mountain-man/go-csv-api.git
 cd go-csv-api
 ```
 
